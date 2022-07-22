@@ -3,7 +3,7 @@ Analysis of spatial &amp; temporal trends in salmonid body size
 Scripts for the paper: "Shrinking body size and climate warming: Many freshwater salmonid fishes do not follow the rule"
 
 Steps for running analysis:
-1) BodySizeMixedModelCode.r- This file reads in the length dataset, formats the data, and runs the top three mixed effects models from the paper. It saves the results (change in length per year)for each population (lake/species/gear combination) into a table with their associated variances.
+1) BodySizeMixedModelCode.r- This file reads in the length dataset, formats the data, and runs the top three mixed effects models from the paper. It saves the results (change in length per year) for each population (lake/species/gear combination) into a table with their associated variances.
 
 Publishable length data used in the analysis- allFilteredData.csv; dataset needs to have year, length, gear, and species columns
 NEED TO EDIT THIS BASED ON WHAT CAN BE PUBLISHED BEFORE UPLOADING
