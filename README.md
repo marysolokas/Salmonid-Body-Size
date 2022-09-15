@@ -11,7 +11,7 @@ Data & scripts for the paper: "Shrinking body size and climate warming: Many fre
 4)potentially excel/csv with all models run if i need to include that in body size mixed model code
 
 # R Scripts:
-1)BodySizeMixedModelCode.R
+1) BodySizeMixedModelCode.R
 2) BodySizeSecondaryAnalysesCode.R
 3) BodySizeFigureCode.R
 
