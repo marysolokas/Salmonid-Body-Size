@@ -25,8 +25,10 @@ Metadata: The Lake column is name of each lake. If the lake name includes a numb
 2) BodySizeSecondaryAnalysesCode.R
 3) BodySizeFigureCode.R
 
+*File paths in R scripts will need to be modified to fit the user's working directory
 
-# Steps for running analysis:
+
+# Steps for running analyses:
 1) BodySizeMixedModelCode.r- This file reads in the length data from filteredData.csv and runs the top three mixed effects models from the main body of the paper, tested with and without random slopes for each species, along with the models that did not include year as a predictor. Using the most parsimonious model (lowest AIC), it saves the results (mm change in length per year) for each population (lake/species/gear combination) into a table with their associated variances. The full table,  bodysizeModelResults.csv, lists the model results for the full dataset used in the paper and is included here.
 
 
