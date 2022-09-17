@@ -12,7 +12,7 @@ Metadata: The Lake column is name of each lake. If the lake name includes a numb
 
 
 
-2) bodysizeModelResults.csv- the body size trends for each population from the top model, with their associated conditional variances. 
+2) bodysizeModelResults.csv- the body size trends for each population from the most parsimonious model, with their associated conditional variances. The Lake column is name of each lake. If the lake name includes a number, it is an associated DNR number (for the lakes in Minnesota) or water body identification code (for the lakes in Wisconsin). The Gear column is the type of gear used to capture the individual fish. In some instances, the mesh size or mesh range of the gillnet used is included and is listed in mm. The Species column is the common name of the species of the individual fish caught. See Table 1 in the manuscript for scientific names of each species. The OverallSlope column is the change in length for each population (model slope), not backtransformed- in units of (standard deviation of lengths)/(standard deviation of years). The OverallSlopeBacktransformed column is the change in body length for each population (model slope), in units of mm/year (backtransformed). The totalVar column is the variance of each slope estimate.
 
 3) need to make table(s) with: lake latitude, mean chlorophyl, mean temp, and temp change
   (BodySizeLatLongTable.csv, BodySize_LakeChlorophyllData.csv, LakeTempChangeData.csv, LakeAvgTempData.csv)
