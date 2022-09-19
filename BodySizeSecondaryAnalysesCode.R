@@ -9,35 +9,35 @@
 rm(list=ls())
 
 #Reading in necessary files and preparing them for use in analyses
-bodysizeModelResults<-read.csv("Desktop/BodySizeGithubFiles/bodysizeModelResults.csv", header=TRUE, stringsAsFactors = FALSE)
+bodysizeModelResults<-read.csv("bodysizeModelResults.csv", header=TRUE, stringsAsFactors = FALSE)
 bodysizeModelResults$weights<-1/bodysizeModelResults$totalVar #inverse of variance is used as the weights in the weighted linear regressions
 
 #For the body size analysis at the species level:
 
 #Linf values for each species; average taken from each entry in fishbase that was not questionable and not from captive populations
-speciesAvgSize<-read.csv("Desktop/BodySizeGithubFiles/BodySize_SpeciesAvgSize.csv", header=TRUE, stringsAsFactors = FALSE)
+speciesAvgSize<-read.csv("BodySize_SpeciesAvgSize.csv", header=TRUE, stringsAsFactors = FALSE)
 #average body size for each species (Linf)
 
 #For the body size analysis at the population level
-popAvgSize<-read.csv("Desktop/BodySizeGithubFiles/BodySize_PopAvgSize.csv", header=TRUE, stringsAsFactors = FALSE)
+popAvgSize<-read.csv("BodySize_PopAvgSize.csv", header=TRUE, stringsAsFactors = FALSE)
 #average body size for each population
 
 #For the range position analysis:
-lakeLatLong<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LatLongTable.csv", header=TRUE, stringsAsFactors = FALSE)
+lakeLatLong<-read.csv("BodySize_LatLongTable.csv", header=TRUE, stringsAsFactors = FALSE)
 lakeLats<-lakeLatLong[,2:3]
 #latitude of each lake
 
 #For the productivity analysis:
-meanChla<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LakeChlorophyllData.csv") 
+meanChla<-read.csv("BodySize_LakeChlorophyllData.csv") 
 meanChla<-meanChla[,2:3]
 #mean chlorophyll-a value for each lake that we have data for
 
 #For the average temperature analysis:
-LakeAvgTemp<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LakeAvgTempData.csv")
+LakeAvgTemp<-read.csv("BodySize_LakeAvgTempData.csv")
 #average temperature for each lake/population over the body size data survey period
 
 #For the temperature change analysis:
-LakeTempChangeAllData<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LakeTempChangeData.csv") 
+LakeTempChangeAllData<-read.csv("BodySize_LakeTempChangeData.csv") 
 LakeTempChangeData<-LakeTempChangeAllData[,c(1:2, 6)]
 #temperature change for each lake/population over the body size data survey period
 
@@ -160,9 +160,6 @@ confint(modRangeRegression2, 'rangePosition', level=0.95)
 #######################################################################################################################
 #Running weighted linear regression of change in body size per year against average chlorophyll-a values; don't have chlorophyll data for every lake
 #to address the question: are high productivity lakes experiencing more positive body size changes?
-
-chlaTab<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LakeChlorophyllData.csv") 
-length(unique(chlaTab$Lake)) #have data on 164 lakes
 
 #Combining model result table with chlorophyll data:
 chlaFullTable<-merge(bodysizeModelResults, chlaTab, by=c("Lake"), all.x=F) 
