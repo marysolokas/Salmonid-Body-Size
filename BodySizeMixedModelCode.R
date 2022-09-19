@@ -14,7 +14,7 @@ library('MuMIn')
 library("tidyverse")
 
 #Reading in data
-data<-read.csv("Desktop/BodySizeGithubFiles/allFilteredData.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
+data<-read.csv("Desktop/BodySizeGithubFiles/filteredData.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
 
 #Formatting data
 data$fGear<-factor(data$Gear)
