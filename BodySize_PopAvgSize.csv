@@ -1,0 +1,771 @@
+"Lake","Gear","Species","avgPopLength"
+"E 05","Arctic LTER Gillnet","Arctic Char",313.558139534884
+"E 05","Arctic LTER Angling","Arctic Char",269.182186234818
+"Fog Lake 1","Arctic LTER Angling","Arctic Char",275.838709677419
+"Fog Lake 1","Arctic LTER Gillnet","Arctic Char",283.811320754717
+"Fog Lake 2","Arctic LTER Angling","Arctic Char",233.256147540984
+"Fog Lake 2","Arctic LTER Gillnet","Arctic Char",285.244444444444
+"Fog Lake 5","Arctic LTER Angling","Arctic Char",332.966101694915
+"Fog Lake 3","Arctic LTER Angling","Arctic Char",231.192139737991
+"N 01","Arctic LTER Angling","Lake Trout",426.116222760291
+"NE 12","Arctic LTER Gillnet","Lake Trout",420.403846153846
+"NE 12","Arctic LTER Angling","Lake Trout",375.311688311688
+"Toolik","Arctic LTER Angling","Lake Trout",426.2
+"Toolik","Arctic LTER Gillnet","Lake Trout",371.968085106383
+"Crystal Lake","NTL LTER Trammel","Lake Trout",558.666666666667
+"Crystal Lake","NTL LTER Vertical Gill-89mm","Lake Trout",511.818181818182
+"Trout Lake","NTL LTER Vertical Gill-89mm","Lake Trout",566.876712328767
+"Trout Lake","NTL LTER Vertical Gill-64mm","Lake Trout",612.395348837209
+"Trout Lake","NTL LTER Vertical Gill-38mm","Lake Trout",626.181818181818
+"Trout Lake","NTL LTER Vertical Gill-25mm","Lake Trout",610.6875
+"Trout Lake","NTL LTER Vertical Gill-51mm","Lake Trout",592.736842105263
+"Trout Lake","NTL LTER Vertical Gill-32mm","Lake Trout",619.739130434783
+"Lake Hovsgol","Mongolia Horizontal Gillnet: mesh = 25.4","Hovsgol Grayling",263.943262411348
+"I8","Arctic LTER Angling","Arctic Grayling",324.303571428571
+"N 01","Arctic LTER Angling","Arctic Grayling",310.818181818182
+"NE 12","Arctic LTER Gillnet","Arctic Grayling",256.330357142857
+"NE 12","Arctic LTER Angling","Arctic Grayling",265.407407407407
+"Big Muskellunge Lake","NTL LTER Vertical Gill-51mm","Cisco",274.789473684211
+"Big Muskellunge Lake","NTL LTER Vertical Gill-38mm","Cisco",227.686567164179
+"Big Muskellunge Lake","NTL LTER Vertical Gill-19mm","Cisco",98.7208538587849
+"Sparkling Lake","NTL LTER Vertical Gill-64mm","Cisco",289.228571428571
+"Sparkling Lake","NTL LTER Vertical Gill-38mm","Cisco",202.037037037037
+"Sparkling Lake","NTL LTER Vertical Gill-32mm","Cisco",182.622222222222
+"Trout Lake","NTL LTER Vertical Gill-32mm","Cisco",168.505112474438
+"Lake Mendota","NTL LTER Vertical Gill-89mm","Cisco",375.616045845272
+"Lake Mendota","NTL LTER Vertical Gill-64mm","Cisco",347.605263157895
+"Lake Mendota","NTL LTER Vertical Gill-51mm","Cisco",340.634920634921
+"Big Muskellunge Lake","NTL LTER Vertical Gill-32mm","Cisco",204.772727272727
+"Trout Lake","NTL LTER Vertical Gill-38mm","Cisco",196.201804123711
+"Trout Lake","NTL LTER Vertical Gill-19mm","Cisco",116.576923076923
+"Trout Lake","NTL LTER Trammel","Cisco",237.166666666667
+"Sparkling Lake","NTL LTER Vertical Gill-51mm","Cisco",263.641025641026
+"Trout Lake","NTL LTER Vertical Gill-51mm","Cisco",242.489749430524
+"Big Muskellunge Lake","NTL LTER Vertical Gill-64mm","Cisco",335.347368421053
+"Trout Lake","NTL LTER Vertical Gill-25mm","Cisco",143.061037856231
+"Trout Lake","NTL LTER Vertical Gill-64mm","Cisco",301.173913043478
+"Big Muskellunge Lake","NTL LTER Vertical Gill-89mm","Cisco",386.342465753425
+"Trout Lake","NTL LTER Vertical Gill-89mm","Cisco",399.4
+"Big Muskellunge Lake","NTL LTER Vertical Gill-25mm","Cisco",233.45
+"Trout Lake","NTL LTER Vertical Gill-51mm","Lake Whitefish",303.714285714286
+"Trout Lake","NTL LTER Vertical Gill-89mm","Lake Whitefish",407.094444444444
+"Trout Lake","NTL LTER Vertical Gill-64mm","Lake Whitefish",333.764705882353
+"Chain O' Lakes- 261100","WI Fyke Net","Cisco",240.506836588708
+"Green Lake- 146100","WI Bottom Gill Net","Cisco",353.666250992851
+"Big Carr Lake- 971600","WI Boom Shocker","Cisco",195.904255319149
+"Big Green- 146100","WI Vertical Gill Net mesh = 25.4","Cisco",287.275229357798
+"Big Green- 146100","WI Vertical Gill Net mesh = 19","Cisco",241.807692307692
+"Big Green- 146100","WI Vertical Gill Net mesh = 32","Cisco",328.300751879699
+"Big Green- 146100","WI Vertical Gill Net mesh = 38.1","Cisco",369.522388059701
+"Big Green- 146100","WI Vertical Gill Net mesh = 45","Cisco",420.411764705882
+"Big Muskellunge- 1835300","WI Vertical Gill Net mesh = 32","Cisco",331.15
+"Big Muskellunge- 1835300","WI Vertical Gill Net mesh = 38.1","Cisco",364.444444444444
+"Tomahawk- 1542700","WI Vertical Gill Net mesh = 19","Cisco",193.742857142857
+"Tomahawk- 1542700","WI Vertical Gill Net mesh = 25.4","Cisco",263.294573643411
+"Tomahawk- 1542700","WI Vertical Gill Net mesh = 32","Cisco",281.116
+"Tomahawk- 1542700","WI Vertical Gill Net mesh = 38.1","Cisco",305.756097560976
+"Pallette- 1872100","WI Vertical Gill Net mesh = 12.7","Cisco",156.289473684211
+"Pallette- 1872100","WI Vertical Gill Net mesh = 19","Cisco",193.328571428571
+"Pike- 2299900","WI Vertical Gill Net mesh = 38.1","Cisco",302.753846153846
+"Pike- 2299900","WI Vertical Gill Net mesh = 32","Cisco",281.526717557252
+"Pike- 2299900","WI Vertical Gill Net mesh = 25.4","Cisco",262.426666666667
+"Pike- 2299900","WI Vertical Gill Net mesh = 19","Cisco",213.478260869565
+"Sevenmile- 1605800","WI Vertical Gill Net mesh = 38.1","Cisco",297.833333333333
+"Sevenmile- 1605800","WI Vertical Gill Net mesh = 25.4","Cisco",236.621951219512
+"Two Sisters- 1588200","WI Vertical Gill Net mesh = 38.1","Cisco",344.933333333333
+"Two Sisters- 1588200","WI Vertical Gill Net mesh = 25.4","Cisco",243.227272727273
+"Two Sisters- 1588200","WI Vertical Gill Net mesh = 19","Cisco",181.119402985075
+"Sevenmile- 1605800","WI Vertical Gill Net mesh = 32","Cisco",265.011818181818
+"Sevenmile- 1605800","WI Vertical Gill Net mesh = 19","Cisco",177.269841269841
+"Trude- 2295200","WI Vertical Gill Net mesh = 38.1","Cisco",330.636363636364
+"Trude- 2295200","WI Vertical Gill Net mesh = 32","Cisco",294.943661971831
+"Trude- 2295200","WI Vertical Gill Net mesh = 25.4","Cisco",280.525
+"Trude- 2295200","WI Vertical Gill Net mesh = 19","Cisco",217.5
+"Trout- 69049800","Minnesota Gill net mesh = 38.1","Lake Trout",546.413793103448
+"Trout- 69049800","Minnesota Gill net mesh = 32","Lake Trout",440.461538461538
+"Trout- 69049800","Minnesota Gill net mesh = 50.8","Lake Trout",605.045454545455
+"Trout- 31041000","Minnesota Gill net mesh = 50.8","Lake Trout",667
+"Bluewater- 31039500","Minnesota Gill net mesh = 32","Lake Trout",496.65
+"Bluewater- 31039500","Minnesota Gill net mesh = 38.1","Lake Trout",595.820512820513
+"Bluewater- 31039500","Minnesota Gill net mesh = 50.8","Lake Trout",646.84375
+"Bluewater- 31039500","Minnesota Gill net mesh = 19","Lake Trout",256.444444444444
+"Loon- 16044800","Minnesota Gill net mesh = 25.4","Lake Trout",314.166666666667
+"Loon- 16044800","Minnesota Gill net mesh = 32","Lake Trout",376.096153846154
+"Loon- 16044800","Minnesota Gill net mesh = 38.1","Lake Trout",434.173913043478
+"Gunflint- 16035600","Minnesota Gill net mesh = 32","Lake Trout",426.711111111111
+"Gunflint- 16035600","Minnesota Gill net mesh = 38.1","Lake Trout",511.52380952381
+"Gunflint- 16035600","Minnesota Gill net mesh = 50.8","Lake Trout",572.46511627907
+"Trout- 16004900","Minnesota Gill net mesh = 19","Lake Trout",270.6875
+"Trout- 16004900","Minnesota Gill net mesh = 38.1","Lake Trout",440.967741935484
+"Trout- 16004900","Minnesota Gill net mesh = 25.4","Lake Trout",316.811320754717
+"Trout- 16004900","Minnesota Gill net mesh = 32","Lake Trout",363.578947368421
+"Kemo- 16018800","Minnesota Gill net mesh = 19","Lake Trout",214.611111111111
+"Kemo- 16018800","Minnesota Gill net mesh = 32","Lake Trout",361.463414634146
+"Kemo- 16018800","Minnesota Gill net mesh = 38.1","Lake Trout",418.279069767442
+"Kemo- 16018800","Minnesota Gill net mesh = 50.8","Lake Trout",532.058823529412
+"Flour- 16014700","Minnesota Gill net mesh = 19","Lake Trout",197.833333333333
+"Bearskin- 16022800","Minnesota Gill net mesh = 32","Lake Trout",404.25
+"Bearskin- 16022800","Minnesota Gill net mesh = 38.1","Lake Trout",462.131578947368
+"Bearskin- 16022800","Minnesota Gill net mesh = 25.4","Lake Trout",357.230769230769
+"Bearskin- 16022800","Minnesota Gill net mesh = 50.8","Lake Trout",568.486486486486
+"Saganaga- 16063300","Minnesota Gill net mesh = 32","Lake Trout",415.357142857143
+"Saganaga- 16063300","Minnesota Gill net mesh = 38.1","Lake Trout",516.916666666667
+"Saganaga- 16063300","Minnesota Gill net mesh = 50.8","Lake Trout",632
+"Greenwood- 16007700","Minnesota Gill net mesh = 19","Lake Trout",269.72
+"Greenwood- 16007700","Minnesota Gill net mesh = 25.4","Lake Trout",353.433333333333
+"Greenwood- 16007700","Minnesota Gill net mesh = 32","Lake Trout",374.859375
+"Greenwood- 16007700","Minnesota Gill net mesh = 38.1","Lake Trout",421.3
+"Greenwood- 16007700","Minnesota Gill net mesh = 50.8","Lake Trout",478.47619047619
+"Burntside- 69011800","Minnesota Gill net mesh = 50.8","Lake Trout",536.173913043478
+"Trout- 16004900","Minnesota Gill net mesh = 50.8","Lake Trout",537
+"Sea Gull- 16062900","Minnesota Gill net mesh = 32","Lake Trout",405.421052631579
+"Sea Gull- 16062900","Minnesota Gill net mesh = 38.1","Lake Trout",482.045454545455
+"Sea Gull- 16062900","Minnesota Gill net mesh = 50.8","Lake Trout",566.117647058824
+"Caribou- 31062000","Minnesota Gill net mesh = 19","Lake Trout",216.8125
+"Caribou- 31062000","Minnesota Gill net mesh = 25.4","Lake Trout",349.921052631579
+"Caribou- 31062000","Minnesota Gill net mesh = 32","Lake Trout",402.916666666667
+"Caribou- 31062000","Minnesota Gill net mesh = 38.1","Lake Trout",491.756097560976
+"Caribou- 31062000","Minnesota Gill net mesh = 50.8","Lake Trout",558.5
+"Bluewater- 31039500","Minnesota Gill net mesh = 25.4","Lake Trout",389.863636363636
+"Snowbank- 38052900","Minnesota Gill net mesh = 25.4","Lake Trout",336.0625
+"Snowbank- 38052900","Minnesota Gill net mesh = 32","Lake Trout",462.296296296296
+"Snowbank- 38052900","Minnesota Gill net mesh = 38.1","Lake Trout",498.037037037037
+"Snowbank- 38052900","Minnesota Gill net mesh = 50.8","Lake Trout",587.565217391304
+"Burntside- 69011800","Minnesota Gill net mesh = 25.4","Lake Trout",298.287234042553
+"Burntside- 69011800","Minnesota Gill net mesh = 19","Lake Trout",214.615384615385
+"Burntside- 69011800","Minnesota Gill net mesh = 32","Lake Trout",364.36
+"Burntside- 69011800","Minnesota Gill net mesh = 38.1","Lake Trout",441.589743589744
+"Grindstone- 58012300","Minnesota Gill net mesh = 32","Lake Trout",361
+"Grindstone- 58012300","Minnesota Gill net mesh = 25.4","Lake Trout",277.930107526882
+"Grindstone- 58012300","Minnesota Gill net mesh = 38.1","Lake Trout",449.285714285714
+"Grindstone- 58012300","Minnesota Gill net mesh = 50.8","Lake Trout",486.92
+"Loon- 16044800","Minnesota Gill net mesh = 19","Cisco",255.479166666667
+"Loon- 16044800","Minnesota Gill net mesh = 25.4","Cisco",294.568421052632
+"Loon- 16044800","Minnesota Gill net mesh = 32","Cisco",306.90977443609
+"Big Trout- 18031500","Minnesota Gill net mesh = 19","Cisco",182.140771637122
+"Big Trout- 18031500","Minnesota Gill net mesh = 25.4","Cisco",224.905797101449
+"Saganaga- 16063300","Minnesota Gill net mesh = 19","Cisco",219.703422053232
+"Saganaga- 16063300","Minnesota Gill net mesh = 25.4","Cisco",265.932546374368
+"Saganaga- 16063300","Minnesota Gill net mesh = 32","Cisco",311.338983050847
+"Saganaga- 16063300","Minnesota Gill net mesh = 38.1","Cisco",349.731343283582
+"Hanging Horn- 9003800","Minnesota Gill net mesh = 19","Cisco",213.880341880342
+"Hanging Horn- 9003800","Minnesota Gill net mesh = 25.4","Cisco",250.217587373168
+"Hanging Horn- 9003800","Minnesota Gill net mesh = 32","Cisco",268.618357487923
+"Hanging Horn- 9003800","Minnesota Gill net mesh = 38.1","Cisco",285.504424778761
+"Greenwood- 16007700","Minnesota Gill net mesh = 19","Cisco",265.68253968254
+"Greenwood- 16007700","Minnesota Gill net mesh = 25.4","Cisco",322.347692307692
+"Greenwood- 16007700","Minnesota Gill net mesh = 32","Cisco",366.278617710583
+"Greenwood- 16007700","Minnesota Gill net mesh = 38.1","Cisco",400.889534883721
+"Greenwood- 16007700","Minnesota Gill net mesh = 50.8","Cisco",403.714285714286
+"Trout- 69049800","Minnesota Gill net mesh = 19","Cisco",195.295497540673
+"Trout- 69049800","Minnesota Gill net mesh = 25.4","Cisco",249.985530546624
+"Trout- 69049800","Minnesota Gill net mesh = 38.1","Cisco",325.663636363636
+"Trout- 69049800","Minnesota Gill net mesh = 32","Cisco",294.398162327718
+"Bluewater- 31039500","Minnesota Gill net mesh = 19","Cisco",185.078651685393
+"Gunflint- 16035600","Minnesota Gill net mesh = 32","Cisco",293.761904761905
+"Gunflint- 16035600","Minnesota Gill net mesh = 25.4","Cisco",254.432098765432
+"Gunflint- 16035600","Minnesota Gill net mesh = 19","Cisco",210.666666666667
+"Trout- 31041000","Minnesota Gill net mesh = 19","Cisco",192.783084577114
+"Trout- 31041000","Minnesota Gill net mesh = 25.4","Cisco",239.871287128713
+"Mukooda- 69068400","Minnesota Gill net mesh = 19","Cisco",206.705782312925
+"Ojibway- 38064000","Minnesota Gill net mesh = 38.1","Cisco",315.386363636364
+"Ojibway- 38064000","Minnesota Gill net mesh = 32","Cisco",294.590163934426
+"Ojibway- 38064000","Minnesota Gill net mesh = 25.4","Cisco",255.123287671233
+"Ojibway- 38064000","Minnesota Gill net mesh = 19","Cisco",211.521197007481
+"Snowbank- 38052900","Minnesota Gill net mesh = 19","Cisco",192.343653250774
+"Snowbank- 38052900","Minnesota Gill net mesh = 25.4","Cisco",240.725806451613
+"Snowbank- 38052900","Minnesota Gill net mesh = 32","Cisco",285.137931034483
+"Trout- 69049800","Minnesota Gill net mesh = 50.8","Cisco",344
+"Flour- 16014700","Minnesota Gill net mesh = 50.8","Cisco",396.193181818182
+"Flour- 16014700","Minnesota Gill net mesh = 38.1","Cisco",399.316901408451
+"Flour- 16014700","Minnesota Gill net mesh = 32","Cisco",365.785992217899
+"Flour- 16014700","Minnesota Gill net mesh = 25.4","Cisco",329.527559055118
+"Flour- 16014700","Minnesota Gill net mesh = 19","Cisco",296.153846153846
+"Namakan- 69069300","Minnesota Gill net mesh = 19","Cisco",197.260869565217
+"Namakan- 69069300","Minnesota Gill net mesh = 25.4","Cisco",273.231651376147
+"Namakan- 69069300","Minnesota Gill net mesh = 32","Cisco",339.230065359477
+"Namakan- 69069300","Minnesota Gill net mesh = 38.1","Cisco",369.474216380182
+"Namakan- 69069300","Minnesota Gill net mesh = 50.8","Cisco",397.312380952381
+"Long- 3038300","Minnesota Gill net mesh = 38.1","Cisco",393.552631578947
+"Long- 3038300","Minnesota Gill net mesh = 19","Cisco",208
+"Long- 3038300","Minnesota Gill net mesh = 25.4","Cisco",264.433333333333
+"Long- 3038300","Minnesota Gill net mesh = 32","Cisco",297.75
+"Long- 3038300","Minnesota Gill net mesh = 50.8","Cisco",392.526315789474
+"Elbow- 3015900","Minnesota Gill net mesh = 32","Cisco",327.881818181818
+"Elbow- 3015900","Minnesota Gill net mesh = 38.1","Cisco",354.682242990654
+"Elbow- 3015900","Minnesota Gill net mesh = 50.8","Cisco",402.763888888889
+"Elbow- 3015900","Minnesota Gill net mesh = 25.4","Cisco",225.360946745562
+"Elbow- 3015900","Minnesota Gill net mesh = 19","Cisco",201.288461538462
+"Cotton- 3028600","Minnesota Gill net mesh = 19","Cisco",240.130434782609
+"Cotton- 3028600","Minnesota Gill net mesh = 50.8","Cisco",410.380952380952
+"Cotton- 3028600","Minnesota Gill net mesh = 38.1","Cisco",363.538461538462
+"Tulaby- 44000300","Minnesota Gill net mesh = 38.1","Cisco",368.072727272727
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 25.4","Cisco",230.685395922238
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 32","Cisco",287.215551617191
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 38.1","Cisco",315.072623138603
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 19","Cisco",205.37839433294
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 50.8","Cisco",357.524795982423
+"Bemidji (main lake)- 4013002","Minnesota Gill net mesh = 38.1","Cisco",350.170854271357
+"Bemidji (main lake)- 4013002","Minnesota Gill net mesh = 32","Cisco",340.631578947368
+"Bemidji (main lake)- 4013002","Minnesota Gill net mesh = 50.8","Cisco",374.725806451613
+"Bemidji (main lake)- 4013002","Minnesota Gill net mesh = 19","Cisco",206.085526315789
+"Bemidji (main lake)- 4013002","Minnesota Gill net mesh = 25.4","Cisco",265.295454545455
+"Itasca- 15001600","Minnesota Gill net mesh = 32","Cisco",279.2
+"Benedict- 29004800","Minnesota Gill net mesh = 38.1","Cisco",286.9
+"Benedict- 29004800","Minnesota Gill net mesh = 25.4","Cisco",256.468253968254
+"Benedict- 29004800","Minnesota Gill net mesh = 32","Cisco",277.134831460674
+"Rachel- 21016000","Minnesota Gill net mesh = 32","Cisco",292.545454545455
+"Two Inlets- 3001700","Minnesota Gill net mesh = 50.8","Cisco",430.638888888889
+"Eleventh Crow Wing- 29003600","Minnesota Gill net mesh = 38.1","Cisco",332.187969924812
+"Eleventh Crow Wing- 29003600","Minnesota Gill net mesh = 19","Cisco",205.766081871345
+"Eleventh Crow Wing- 29003600","Minnesota Gill net mesh = 25.4","Cisco",262.192825112108
+"Eleventh Crow Wing- 29003600","Minnesota Gill net mesh = 50.8","Cisco",361.974358974359
+"Eleventh Crow Wing- 29003600","Minnesota Gill net mesh = 32","Cisco",319.313725490196
+"Cass- 4003000","Minnesota Gill net mesh = 25.4","Cisco",263.518317503392
+"Cass- 4003000","Minnesota Gill net mesh = 32","Cisco",310.792129162462
+"Cass- 4003000","Minnesota Gill net mesh = 38.1","Cisco",332.848514851485
+"Cass- 4003000","Minnesota Gill net mesh = 19","Cisco",213.736486486486
+"Cass- 4003000","Minnesota Gill net mesh = 50.8","Cisco",366.205479452055
+"Woman- 11020100","Minnesota Gill net mesh = 32","Cisco",388.593495934959
+"Woman- 11020100","Minnesota Gill net mesh = 19","Cisco",281.971428571429
+"Woman- 11020100","Minnesota Gill net mesh = 25.4","Cisco",284.774193548387
+"Woman- 11020100","Minnesota Gill net mesh = 38.1","Cisco",389.991935483871
+"Woman- 11020100","Minnesota Gill net mesh = 50.8","Cisco",415.879518072289
+"Little Boy- 11016700","Minnesota Gill net mesh = 19","Cisco",269.870967741935
+"Little Boy- 11016700","Minnesota Gill net mesh = 25.4","Cisco",255.358974358974
+"Little Boy- 11016700","Minnesota Gill net mesh = 32","Cisco",305.64
+"Little Boy- 11016700","Minnesota Gill net mesh = 38.1","Cisco",347.119047619048
+"Little Boy- 11016700","Minnesota Gill net mesh = 50.8","Cisco",378.613333333333
+"Long- 11014200","Minnesota Gill net mesh = 25.4","Cisco",348.823529411765
+"Long- 11014200","Minnesota Gill net mesh = 38.1","Cisco",370.748091603053
+"Long- 11014200","Minnesota Gill net mesh = 50.8","Cisco",385.583333333333
+"Long- 11014200","Minnesota Gill net mesh = 32","Cisco",359.059523809524
+"Osakis- 77021500","Minnesota Gill net mesh = 38.1","Cisco",392.65
+"Osakis- 77021500","Minnesota Gill net mesh = 25.4","Cisco",304.210526315789
+"Osakis- 77021500","Minnesota Gill net mesh = 32","Cisco",355.823529411765
+"Osakis- 77021500","Minnesota Gill net mesh = 50.8","Cisco",415.428571428571
+"Osakis- 77021500","Minnesota Gill net mesh = 19","Cisco",240.916666666667
+"Blackwater- 11027400","Minnesota Gill net mesh = 50.8","Cisco",425.779661016949
+"Blackwater- 11027400","Minnesota Gill net mesh = 38.1","Cisco",384.381818181818
+"Blackwater- 11027400","Minnesota Gill net mesh = 32","Cisco",339.367647058824
+"Blackwater- 11027400","Minnesota Gill net mesh = 25.4","Cisco",239.694805194805
+"Blackwater- 11027400","Minnesota Gill net mesh = 19","Cisco",202.942857142857
+"Mule- 11020000","Minnesota Gill net mesh = 50.8","Cisco",467.923076923077
+"Mule- 11020000","Minnesota Gill net mesh = 38.1","Cisco",446
+"Mina- 21010800","Minnesota Gill net mesh = 38.1","Cisco",315.695652173913
+"Mina- 21010800","Minnesota Gill net mesh = 25.4","Cisco",274.214285714286
+"Beltrami- 4013500","Minnesota Gill net mesh = 25.4","Cisco",286.65
+"Marion- 56024300","Minnesota Gill net mesh = 25.4","Cisco",272.45
+"Marion- 56024300","Minnesota Gill net mesh = 19","Cisco",206.363636363636
+"Marion- 56024300","Minnesota Gill net mesh = 38.1","Cisco",348.461538461538
+"Marion- 56024300","Minnesota Gill net mesh = 32","Cisco",359.714285714286
+"Dead- 56038300","Minnesota Gill net mesh = 38.1","Cisco",422.785714285714
+"Dead- 56038300","Minnesota Gill net mesh = 50.8","Cisco",429.285714285714
+"Dead- 56038300","Minnesota Gill net mesh = 32","Cisco",381.133333333333
+"Molly Stark- 56030300","Minnesota Gill net mesh = 38.1","Cisco",365.8125
+"North Lida- 56074701","Minnesota Gill net mesh = 25.4","Cisco",244.155555555556
+"North Lida- 56074701","Minnesota Gill net mesh = 19","Cisco",205.375
+"North Lida- 56074701","Minnesota Gill net mesh = 50.8","Cisco",391.526315789474
+"North Lida- 56074701","Minnesota Gill net mesh = 38.1","Cisco",368.775510204082
+"North Lida- 56074701","Minnesota Gill net mesh = 32","Cisco",353.08
+"South Lida- 56074702","Minnesota Gill net mesh = 50.8","Cisco",437.576923076923
+"South Lida- 56074702","Minnesota Gill net mesh = 38.1","Cisco",412.24
+"South Lida- 56074702","Minnesota Gill net mesh = 25.4","Cisco",241.265306122449
+"South Lida- 56074702","Minnesota Gill net mesh = 32","Cisco",398.72
+"South Lida- 56074702","Minnesota Gill net mesh = 19","Cisco",245.928571428571
+"Leech- 11020300","Minnesota Gill net mesh = 38.1","Cisco",357.137096774194
+"Leech- 11020300","Minnesota Gill net mesh = 25.4","Cisco",258.802310654685
+"Leech- 11020300","Minnesota Gill net mesh = 19","Cisco",231.340314136126
+"Leech- 11020300","Minnesota Gill net mesh = 32","Cisco",309.593927893738
+"Buffalo- 3035000","Minnesota Gill net mesh = 38.1","Cisco",393.809523809524
+"Andrew- 21008500","Minnesota Gill net mesh = 25.4","Cisco",276.888888888889
+"Mantrap- 29015100","Minnesota Gill net mesh = 32","Cisco",257.857142857143
+"Big- 4004900","Minnesota Gill net mesh = 25.4","Cisco",271.166666666667
+"Big- 4004900","Minnesota Gill net mesh = 32","Cisco",329.051948051948
+"Big- 4004900","Minnesota Gill net mesh = 38.1","Cisco",338.887640449438
+"Big- 4004900","Minnesota Gill net mesh = 50.8","Cisco",364.428571428571
+"Big- 4004900","Minnesota Gill net mesh = 19","Cisco",244.679245283019
+"Ada- 11025000","Minnesota Gill net mesh = 38.1","Cisco",349.666666666667
+"Ada- 11025000","Minnesota Gill net mesh = 32","Cisco",342.695652173913
+"Ada- 11025000","Minnesota Gill net mesh = 50.8","Cisco",403.214285714286
+"Turtle- 4015900","Minnesota Gill net mesh = 50.8","Cisco",393.777777777778
+"Miltona- 21008300","Minnesota Gill net mesh = 32","Cisco",302.178571428571
+"Miltona- 21008300","Minnesota Gill net mesh = 25.4","Cisco",232.740740740741
+"Miltona- 21008300","Minnesota Gill net mesh = 19","Cisco",199.125
+"South Twin- 44001400","Minnesota Gill net mesh = 38.1","Cisco",368.173469387755
+"Turtle- 4015900","Minnesota Gill net mesh = 25.4","Cisco",223
+"South Twin- 44001400","Minnesota Gill net mesh = 32","Cisco",351.625
+"Miltona- 21008300","Minnesota Gill net mesh = 50.8","Cisco",362.416666666667
+"Turtle- 4015900","Minnesota Gill net mesh = 38.1","Cisco",371.65625
+"Miltona- 21008300","Minnesota Gill net mesh = 38.1","Cisco",333.642857142857
+"South Twin- 44001400","Minnesota Gill net mesh = 50.8","Cisco",391.285714285714
+"Eagle- 29025600","Minnesota Gill net mesh = 32","Cisco",357.363636363636
+"South Twin- 44001400","Minnesota Gill net mesh = 25.4","Cisco",325.529411764706
+"Eagle- 29025600","Minnesota Gill net mesh = 50.8","Cisco",413.6
+"Inguadona- 11012000","Minnesota Gill net mesh = 50.8","Cisco",356.105263157895
+"Inguadona- 11012000","Minnesota Gill net mesh = 38.1","Cisco",326.72
+"Inguadona- 11012000","Minnesota Gill net mesh = 25.4","Cisco",252
+"Inguadona- 11012000","Minnesota Gill net mesh = 19","Cisco",213.318181818182
+"Ida- 21012300","Minnesota Gill net mesh = 50.8","Cisco",414.25
+"Ida- 21012300","Minnesota Gill net mesh = 19","Cisco",222.5
+"Girl- 11017400","Minnesota Gill net mesh = 38.1","Cisco",405.25
+"Girl- 11017400","Minnesota Gill net mesh = 50.8","Cisco",430.354166666667
+"Rush- 56014100","Minnesota Gill net mesh = 25.4","Cisco",243.714285714286
+"Rush- 56014100","Minnesota Gill net mesh = 32","Cisco",298.939393939394
+"Rush- 56014100","Minnesota Gill net mesh = 50.8","Cisco",368.560975609756
+"Turtle River- 4011100","Minnesota Gill net mesh = 32","Cisco",324.162162162162
+"Turtle River- 4011100","Minnesota Gill net mesh = 25.4","Cisco",236.2
+"Plantagenet- 29015600","Minnesota Gill net mesh = 38.1","Cisco",341.47619047619
+"Plantagenet- 29015600","Minnesota Gill net mesh = 32","Cisco",326.235294117647
+"Plantagenet- 29015600","Minnesota Gill net mesh = 50.8","Cisco",377.588235294118
+"Lizzie (north portion)- 56076001","Minnesota Gill net mesh = 38.1","Cisco",355.894736842105
+"Lizzie (north portion)- 56076001","Minnesota Gill net mesh = 32","Cisco",326.176470588235
+"Otter Tail- 56024200","Minnesota Gill net mesh = 38.1","Cisco",315.546365914787
+"Otter Tail- 56024200","Minnesota Gill net mesh = 32","Cisco",299.263358778626
+"Otter Tail- 56024200","Minnesota Gill net mesh = 50.8","Cisco",312.36
+"Otter Tail- 56024200","Minnesota Gill net mesh = 19","Cisco",254.867549668874
+"Otter Tail- 56024200","Minnesota Gill net mesh = 25.4","Cisco",259.261213720317
+"Leech- 11020300","Minnesota Gill net mesh = 50.8","Cisco",400.257894736842
+"Little Pine- 56014200","Minnesota Gill net mesh = 25.4","Cisco",203.143396226415
+"Little Pine- 56014200","Minnesota Gill net mesh = 19","Cisco",192
+"Little Pine- 56014200","Minnesota Gill net mesh = 32","Cisco",237.294871794872
+"Little Pine- 56014200","Minnesota Gill net mesh = 50.8","Cisco",375.521739130435
+"Eighth Crow Wing- 29007200","Minnesota Gill net mesh = 32","Cisco",338.782608695652
+"Deer- 4023000","Minnesota Gill net mesh = 50.8","Cisco",394.789473684211
+"Little Pine- 56014200","Minnesota Gill net mesh = 38.1","Cisco",326.244897959184
+"Eighth Crow Wing- 29007200","Minnesota Gill net mesh = 38.1","Cisco",352.346153846154
+"Ninth Crow Wing- 29002500","Minnesota Gill net mesh = 32","Cisco",299.692307692308
+"Elk- 15001000","Minnesota Gill net mesh = 38.1","Cisco",325.704761904762
+"Elk- 15001000","Minnesota Gill net mesh = 32","Cisco",308.05303030303
+"Elk- 15001000","Minnesota Gill net mesh = 25.4","Cisco",272.58024691358
+"Elk- 15001000","Minnesota Gill net mesh = 19","Cisco",205.071428571429
+"Big Pine- 56013000","Minnesota Gill net mesh = 32","Cisco",298.944444444444
+"Big Pine- 56013000","Minnesota Gill net mesh = 25.4","Cisco",211.175
+"Big Pine- 56013000","Minnesota Gill net mesh = 19","Cisco",227
+"Big Pine- 56013000","Minnesota Gill net mesh = 38.1","Cisco",357.772727272727
+"Big Pine- 56013000","Minnesota Gill net mesh = 50.8","Cisco",361.529411764706
+"Many Point- 3015800","Minnesota Gill net mesh = 25.4","Cisco",283.844444444444
+"Little Bemidji- 3023400","Minnesota Gill net mesh = 50.8","Cisco",394.26
+"Little Bemidji- 3023400","Minnesota Gill net mesh = 38.1","Cisco",373.506329113924
+"Little Bemidji- 3023400","Minnesota Gill net mesh = 32","Cisco",361.724137931034
+"Little Bemidji- 3023400","Minnesota Gill net mesh = 25.4","Cisco",254.862068965517
+"Little Bemidji- 3023400","Minnesota Gill net mesh = 19","Cisco",188.093023255814
+"Kabekona- 29007500","Minnesota Gill net mesh = 19","Cisco",225
+"Kabekona- 29007500","Minnesota Gill net mesh = 25.4","Cisco",275.364197530864
+"Kabekona- 29007500","Minnesota Gill net mesh = 32","Cisco",321.677725118483
+"Kabekona- 29007500","Minnesota Gill net mesh = 50.8","Cisco",398.727272727273
+"Many Point- 3015800","Minnesota Gill net mesh = 38.1","Cisco",324.108108108108
+"Many Point- 3015800","Minnesota Gill net mesh = 19","Cisco",210.5
+"Kabekona- 29007500","Minnesota Gill net mesh = 38.1","Cisco",346.782857142857
+"Many Point- 3015800","Minnesota Gill net mesh = 32","Cisco",299.372881355932
+"Tenth Crow Wing- 29004500","Minnesota Gill net mesh = 32","Cisco",346.944444444444
+"Tenth Crow Wing- 29004500","Minnesota Gill net mesh = 38.1","Cisco",355.571428571429
+"Pelican- 56078600","Minnesota Gill net mesh = 19","Cisco",239.764705882353
+"East Loon- 56052300","Minnesota Gill net mesh = 38.1","Cisco",371.382608695652
+"East Battle- 56013800","Minnesota Gill net mesh = 25.4","Cisco",284.818181818182
+"East Loon- 56052300","Minnesota Gill net mesh = 32","Cisco",345.311475409836
+"Boy- 11014300","Minnesota Gill net mesh = 19","Cisco",223.565217391304
+"Pine Mountain- 11041100","Minnesota Gill net mesh = 50.8","Cisco",416.428571428571
+"Pine Mountain- 11041100","Minnesota Gill net mesh = 38.1","Cisco",411.857142857143
+"Pickerel- 56047500","Minnesota Gill net mesh = 32","Cisco",319.65
+"Pickerel- 56047500","Minnesota Gill net mesh = 19","Cisco",204.873015873016
+"Pickerel- 56047500","Minnesota Gill net mesh = 25.4","Cisco",254.842105263158
+"Two Inlets- 3001700","Minnesota Gill net mesh = 32","Cisco",307.541666666667
+"Deer- 4023000","Minnesota Gill net mesh = 32","Cisco",324.1
+"Deer- 4023000","Minnesota Gill net mesh = 38.1","Cisco",361.84
+"Pike Bay- 11041500","Minnesota Gill net mesh = 32","Cisco",290.260869565217
+"Melissa- 3047500","Minnesota Gill net mesh = 25.4","Cisco",289.740740740741
+"Melissa- 3047500","Minnesota Gill net mesh = 19","Cisco",244.652173913043
+"Sallie- 3035900","Minnesota Gill net mesh = 19","Cisco",339.636363636364
+"Sallie- 3035900","Minnesota Gill net mesh = 25.4","Cisco",309.03125
+"Sallie- 3035900","Minnesota Gill net mesh = 32","Cisco",336.566037735849
+"Sallie- 3035900","Minnesota Gill net mesh = 38.1","Cisco",364.545454545455
+"Rush- 56014100","Minnesota Gill net mesh = 38.1","Cisco",336.826666666667
+"Lizzie (north portion)- 56076001","Minnesota Gill net mesh = 25.4","Cisco",277.65
+"Jewett- 56087700","Minnesota Gill net mesh = 32","Cisco",274.464285714286
+"East Battle- 56013800","Minnesota Gill net mesh = 32","Cisco",372.785714285714
+"East Battle- 56013800","Minnesota Gill net mesh = 50.8","Cisco",413.0625
+"East Battle- 56013800","Minnesota Gill net mesh = 38.1","Cisco",393.583333333333
+"Molly Stark- 56030300","Minnesota Gill net mesh = 32","Cisco",314.705882352941
+"Dead- 56038300","Minnesota Gill net mesh = 25.4","Cisco",253.842105263158
+"Pelican- 56078600","Minnesota Gill net mesh = 25.4","Cisco",271.615384615385
+"Jewett- 56087700","Minnesota Gill net mesh = 25.4","Cisco",229.308510638298
+"Mary- 21009200","Minnesota Gill net mesh = 25.4","Cisco",282.595505617978
+"Mary- 21009200","Minnesota Gill net mesh = 32","Cisco",363.982142857143
+"Mary- 21009200","Minnesota Gill net mesh = 38.1","Cisco",386.594594594595
+"Mary- 21009200","Minnesota Gill net mesh = 50.8","Cisco",404.42
+"Ida- 21012300","Minnesota Gill net mesh = 25.4","Cisco",282.416666666667
+"Mary- 21009200","Minnesota Gill net mesh = 19","Cisco",240.8125
+"Eighth Crow Wing- 29007200","Minnesota Gill net mesh = 25.4","Cisco",266.25
+"Long- 29016100","Minnesota Gill net mesh = 32","Cisco",306.4875
+"Potato- 29024300","Minnesota Gill net mesh = 50.8","Cisco",400.5
+"Potato- 29024300","Minnesota Gill net mesh = 38.1","Cisco",378.25
+"Potato- 29024300","Minnesota Gill net mesh = 25.4","Cisco",216.761904761905
+"Potato- 29024300","Minnesota Gill net mesh = 19","Cisco",169.577464788732
+"Blue- 29018400","Minnesota Gill net mesh = 25.4","Cisco",246.039344262295
+"Blue- 29018400","Minnesota Gill net mesh = 32","Cisco",265.558951965065
+"Blue- 29018400","Minnesota Gill net mesh = 19","Cisco",190.570621468927
+"Second Crow Wing- 29008500","Minnesota Gill net mesh = 25.4","Cisco",235.348837209302
+"Third Crow Wing- 29007700","Minnesota Gill net mesh = 50.8","Cisco",383.411764705882
+"Third Crow Wing- 29007700","Minnesota Gill net mesh = 19","Cisco",273.076923076923
+"Third Crow Wing- 29007700","Minnesota Gill net mesh = 38.1","Cisco",360.451612903226
+"Third Crow Wing- 29007700","Minnesota Gill net mesh = 32","Cisco",335.692307692308
+"Sixth Crow Wing- 29009300","Minnesota Gill net mesh = 25.4","Cisco",263.714285714286
+"Sixth Crow Wing- 29009300","Minnesota Gill net mesh = 32","Cisco",316.727272727273
+"Island- 29025400","Minnesota Gill net mesh = 50.8","Cisco",437.272727272727
+"Seventh Crow Wing- 29009100","Minnesota Gill net mesh = 19","Cisco",210.076923076923
+"Long- 29016100","Minnesota Gill net mesh = 38.1","Cisco",340.354838709677
+"Straight- 3001000","Minnesota Gill net mesh = 25.4","Cisco",230.071428571429
+"Wabedo- 11017100","Minnesota Gill net mesh = 32","Cisco",283.738095238095
+"Wabedo- 11017100","Minnesota Gill net mesh = 38.1","Cisco",314.078431372549
+"Wabedo- 11017100","Minnesota Gill net mesh = 50.8","Cisco",358.875
+"Wabedo- 11017100","Minnesota Gill net mesh = 25.4","Cisco",253.331730769231
+"Wabedo- 11017100","Minnesota Gill net mesh = 19","Cisco",200.817610062893
+"Pleasant- 11038300","Minnesota Gill net mesh = 19","Cisco",232.9
+"Pleasant- 11038300","Minnesota Gill net mesh = 38.1","Cisco",386.272727272727
+"Pleasant- 11038300","Minnesota Gill net mesh = 50.8","Cisco",452.5
+"Upper Trelipe- 11010500","Minnesota Gill net mesh = 19","Cisco",225.533333333333
+"Upper Trelipe- 11010500","Minnesota Gill net mesh = 25.4","Cisco",235.192771084337
+"Upper Trelipe- 11010500","Minnesota Gill net mesh = 32","Cisco",289.7
+"Upper Trelipe- 11010500","Minnesota Gill net mesh = 50.8","Cisco",345.692307692308
+"Inguadona- 11012000","Minnesota Gill net mesh = 32","Cisco",290.634146341463
+"Pleasant- 11038300","Minnesota Gill net mesh = 25.4","Cisco",275.727272727273
+"North Long- 18037200","Minnesota Gill net mesh = 25.4","Cisco",242.201680672269
+"North Long- 18037200","Minnesota Gill net mesh = 32","Cisco",326.65
+"North Long- 18037200","Minnesota Gill net mesh = 38.1","Cisco",360.684210526316
+"North Long- 18037200","Minnesota Gill net mesh = 50.8","Cisco",430.666666666667
+"Pelican- 18030800","Minnesota Gill net mesh = 32","Cisco",378.0625
+"Pelican- 18030800","Minnesota Gill net mesh = 38.1","Cisco",373.666666666667
+"Pelican- 18030800","Minnesota Gill net mesh = 25.4","Cisco",303.189655172414
+"Vermilion- 69037800","Minnesota Gill net mesh = 25.4","Cisco",244.943204868154
+"Vermilion- 69037800","Minnesota Gill net mesh = 38.1","Cisco",327.546827794562
+"Vermilion- 69037800","Minnesota Gill net mesh = 50.8","Cisco",352.439293598234
+"Rainy- 69069400","Minnesota Gill net mesh = 32","Cisco",313.863309352518
+"Vermilion- 69037800","Minnesota Gill net mesh = 32","Cisco",288.264644351464
+"Vermilion- 69037800","Minnesota Gill net mesh = 19","Cisco",258.015873015873
+"Rainy- 69069400","Minnesota Gill net mesh = 38.1","Cisco",343.571428571429
+"Rainy- 69069400","Minnesota Gill net mesh = 50.8","Cisco",385.752577319588
+"Rainy- 69069400","Minnesota Gill net mesh = 25.4","Cisco",271.203980099502
+"Rainy- 69069400","Minnesota Gill net mesh = 19","Cisco",209.862745098039
+"Birch- 69000300","Minnesota Gill net mesh = 32","Cisco",288.362790697674
+"Birch- 69000300","Minnesota Gill net mesh = 19","Cisco",199.616541353383
+"Birch- 69000300","Minnesota Gill net mesh = 25.4","Cisco",230.340350877193
+"Birch- 69000300","Minnesota Gill net mesh = 38.1","Cisco",320.233333333333
+"Birch- 69000300","Minnesota Gill net mesh = 50.8","Cisco",366.588235294118
+"Little Vermilion- 69060800","Minnesota Gill net mesh = 38.1","Cisco",299.044943820225
+"Little Vermilion- 69060800","Minnesota Gill net mesh = 19","Cisco",186.992481203008
+"Little Vermilion- 69060800","Minnesota Gill net mesh = 25.4","Cisco",228.40490797546
+"Little Vermilion- 69060800","Minnesota Gill net mesh = 32","Cisco",275.27027027027
+"Sand Point- 69061700","Minnesota Gill net mesh = 19","Cisco",192.294736842105
+"Sand Point- 69061700","Minnesota Gill net mesh = 25.4","Cisco",244.047991071429
+"Sand Point- 69061700","Minnesota Gill net mesh = 32","Cisco",294.257555847569
+"Sand Point- 69061700","Minnesota Gill net mesh = 38.1","Cisco",335.213362068966
+"Sand Point- 69061700","Minnesota Gill net mesh = 50.8","Cisco",381.012658227848
+"Crane- 69061600","Minnesota Gill net mesh = 38.1","Cisco",319.636363636364
+"Crane- 69061600","Minnesota Gill net mesh = 25.4","Cisco",230.941176470588
+"Crane- 69061600","Minnesota Gill net mesh = 19","Cisco",191.907407407407
+"Sand- 31082600","Minnesota Gill net mesh = 25.4","Cisco",215.135135135135
+"Sand- 31082600","Minnesota Gill net mesh = 50.8","Cisco",403.666666666667
+"Sand- 31082600","Minnesota Gill net mesh = 38.1","Cisco",391.3
+"Moose- 31072200","Minnesota Gill net mesh = 25.4","Cisco",274
+"Moose- 31072200","Minnesota Gill net mesh = 32","Cisco",307.57299270073
+"Moose- 31072200","Minnesota Gill net mesh = 38.1","Cisco",331.771573604061
+"Moose- 31072200","Minnesota Gill net mesh = 19","Cisco",232.394736842105
+"Winnibigoshish- 11014700","Minnesota Gill net mesh = 32","Cisco",290.320273078065
+"Winnibigoshish- 11014700","Minnesota Gill net mesh = 25.4","Cisco",233.957965962682
+"Winnibigoshish- 11014700","Minnesota Gill net mesh = 19","Cisco",200.892342857143
+"Winnibigoshish- 11014700","Minnesota Gill net mesh = 38.1","Cisco",313.596579867859
+"Winnibigoshish- 11014700","Minnesota Gill net mesh = 50.8","Cisco",336.447093889717
+"Kabetogama- 69084500","Minnesota Gill net mesh = 32","Cisco",362.801556420233
+"Kabetogama- 69084500","Minnesota Gill net mesh = 38.1","Cisco",380.764900662252
+"Kabetogama- 69084500","Minnesota Gill net mesh = 50.8","Cisco",407.301886792453
+"Kabetogama- 69084500","Minnesota Gill net mesh = 19","Cisco",303.697674418605
+"Kabetogama- 69084500","Minnesota Gill net mesh = 25.4","Cisco",339.12962962963
+"Island- 31091300","Minnesota Gill net mesh = 38.1","Cisco",346.140350877193
+"Island- 31091300","Minnesota Gill net mesh = 32","Cisco",325.955223880597
+"Balsam- 31025900","Minnesota Gill net mesh = 19","Cisco",216.796296296296
+"Balsam- 31025900","Minnesota Gill net mesh = 32","Cisco",321.769230769231
+"Balsam- 31025900","Minnesota Gill net mesh = 38.1","Cisco",366.647058823529
+"Balsam- 31025900","Minnesota Gill net mesh = 50.8","Cisco",402.75
+"Balsam- 31025900","Minnesota Gill net mesh = 25.4","Cisco",252.059523809524
+"Cut Foot Sioux- 31085700","Minnesota Gill net mesh = 25.4","Cisco",263.93
+"Cut Foot Sioux- 31085700","Minnesota Gill net mesh = 38.1","Cisco",342.326039387309
+"Cut Foot Sioux- 31085700","Minnesota Gill net mesh = 32","Cisco",315.293015332198
+"Cut Foot Sioux- 31085700","Minnesota Gill net mesh = 19","Cisco",234.36231884058
+"Cut Foot Sioux- 31085700","Minnesota Gill net mesh = 50.8","Cisco",378.607843137255
+"Upper Gull- 11021800","Minnesota Gill net mesh = 38.1","Cisco",357.811320754717
+"Upper Gull- 11021800","Minnesota Gill net mesh = 50.8","Cisco",401.384615384615
+"Round- 18037300","Minnesota Gill net mesh = 38.1","Cisco",348.289473684211
+"Round- 18037300","Minnesota Gill net mesh = 32","Cisco",317.954545454545
+"Kjostad- 69074800","Minnesota Gill net mesh = 19","Cisco",261.071428571429
+"Kjostad- 69074800","Minnesota Gill net mesh = 25.4","Cisco",280.40306122449
+"Kjostad- 69074800","Minnesota Gill net mesh = 32","Cisco",311.302469135802
+"Kjostad- 69074800","Minnesota Gill net mesh = 38.1","Cisco",343.394366197183
+"Gull- 11030500","Minnesota Gill net mesh = 38.1","Cisco",372.610619469027
+"Gull- 11030500","Minnesota Gill net mesh = 50.8","Cisco",413.583333333333
+"Gull- 11030500","Minnesota Gill net mesh = 32","Cisco",320.509433962264
+"Dam- 1009600","Minnesota Gill net mesh = 38.1","Cisco",382.777777777778
+"Dam- 1009600","Minnesota Gill net mesh = 50.8","Cisco",407.162162162162
+"Dam- 1009600","Minnesota Gill net mesh = 32","Cisco",358.235294117647
+"South Long- 18013600","Minnesota Gill net mesh = 32","Cisco",340.277777777778
+"Upper South Long- 18009600","Minnesota Gill net mesh = 50.8","Cisco",412.5
+"Deer- 31033400","Minnesota Gill net mesh = 50.8","Cisco",404.03125
+"Clearwater- 18003800","Minnesota Gill net mesh = 32","Cisco",367.888888888889
+"Clearwater- 18003800","Minnesota Gill net mesh = 25.4","Cisco",251.772727272727
+"Fall- 38081100","Minnesota Gill net mesh = 25.4","Cisco",251.663265306122
+"Fall- 38081100","Minnesota Gill net mesh = 38.1","Cisco",328.879310344828
+"Fall- 38081100","Minnesota Gill net mesh = 32","Cisco",292.735294117647
+"Fall- 38081100","Minnesota Gill net mesh = 19","Cisco",222.914285714286
+"Fall- 38081100","Minnesota Gill net mesh = 50.8","Cisco",371.936170212766
+"Shagawa- 69006900","Minnesota Gill net mesh = 25.4","Cisco",246.839285714286
+"Shagawa- 69006900","Minnesota Gill net mesh = 32","Cisco",297.75
+"Wabana- 31039200","Minnesota Gill net mesh = 38.1","Cisco",397.434210526316
+"Wabana- 31039200","Minnesota Gill net mesh = 32","Cisco",375.333333333333
+"North Star- 31065300","Minnesota Gill net mesh = 32","Cisco",284.66
+"North Star- 31065300","Minnesota Gill net mesh = 19","Cisco",202.413043478261
+"Swan- 31006700","Minnesota Gill net mesh = 25.4","Cisco",231.157894736842
+"Swan- 31006700","Minnesota Gill net mesh = 19","Cisco",211.111111111111
+"Split Hand- 31035300","Minnesota Gill net mesh = 25.4","Cisco",301.666666666667
+"Split Hand- 31035300","Minnesota Gill net mesh = 38.1","Cisco",386.674418604651
+"Split Hand- 31035300","Minnesota Gill net mesh = 50.8","Cisco",414.702702702703
+"Split Hand- 31035300","Minnesota Gill net mesh = 32","Cisco",359.666666666667
+"Jessie- 31078600","Minnesota Gill net mesh = 50.8","Cisco",371.68
+"Bowstring- 31081300","Minnesota Gill net mesh = 50.8","Cisco",407.571428571429
+"North Star- 31065300","Minnesota Gill net mesh = 25.4","Cisco",251.1171875
+"Wabana- 31039200","Minnesota Gill net mesh = 19","Cisco",213.487804878049
+"Jessie- 31078600","Minnesota Gill net mesh = 38.1","Cisco",354.1
+"Dry- 69006400","Minnesota Gill net mesh = 25.4","Cisco",308
+"Dry- 69006400","Minnesota Gill net mesh = 38.1","Cisco",344.8125
+"White Iron- 69000400","Minnesota Gill net mesh = 38.1","Cisco",314.702380952381
+"White Iron- 69000400","Minnesota Gill net mesh = 19","Cisco",177.73125
+"White Iron- 69000400","Minnesota Gill net mesh = 25.4","Cisco",221.857894736842
+"White Iron- 69000400","Minnesota Gill net mesh = 50.8","Cisco",338.333333333333
+"White Iron- 69000400","Minnesota Gill net mesh = 32","Cisco",284.25
+"Bear Island- 69011500","Minnesota Gill net mesh = 19","Cisco",168.748466257669
+"South Farm- 38077800","Minnesota Gill net mesh = 25.4","Cisco",217.127118644068
+"South Farm- 38077800","Minnesota Gill net mesh = 32","Cisco",265.703125
+"Farm- 38077900","Minnesota Gill net mesh = 25.4","Cisco",219.086021505376
+"Farm- 38077900","Minnesota Gill net mesh = 32","Cisco",268.392857142857
+"Garden- 38078200","Minnesota Gill net mesh = 32","Cisco",266.789473684211
+"Garden- 38078200","Minnesota Gill net mesh = 25.4","Cisco",220.573333333333
+"Garden- 38078200","Minnesota Gill net mesh = 38.1","Cisco",306.666666666667
+"Dry- 69006400","Minnesota Gill net mesh = 32","Cisco",324.534482758621
+"Elbow- 69074400","Minnesota Gill net mesh = 25.4","Cisco",212.388888888889
+"Johnson- 69069100","Minnesota Gill net mesh = 25.4","Cisco",225.2
+"Johnson- 69069100","Minnesota Gill net mesh = 19","Cisco",189.649025069638
+"Johnson- 69069100","Minnesota Gill net mesh = 32","Cisco",249
+"Elbow- 69074400","Minnesota Gill net mesh = 19","Cisco",182.242424242424
+"Long- 1008900","Minnesota Gill net mesh = 19","Cisco",198.30985915493
+"Long- 1008900","Minnesota Gill net mesh = 25.4","Cisco",227.596153846154
+"Farm Island- 1015900","Minnesota Gill net mesh = 32","Cisco",379.4375
+"Farm Island- 1015900","Minnesota Gill net mesh = 19","Cisco",328.8
+"Farm Island- 1015900","Minnesota Gill net mesh = 38.1","Cisco",363.785714285714
+"Farm Island- 1015900","Minnesota Gill net mesh = 25.4","Cisco",272.833333333333
+"Big Sandy- 1006200","Minnesota Gill net mesh = 19","Cisco",212.571428571429
+"Big Sandy- 1006200","Minnesota Gill net mesh = 25.4","Cisco",257.113333333333
+"Big Sandy- 1006200","Minnesota Gill net mesh = 32","Cisco",301.98031496063
+"Big Sandy- 1006200","Minnesota Gill net mesh = 38.1","Cisco",341.225080385852
+"Big Sandy- 1006200","Minnesota Gill net mesh = 50.8","Cisco",398.087837837838
+"Pelican- 18030800","Minnesota Gill net mesh = 19","Cisco",225.941176470588
+"Washburn- 11005900","Minnesota Gill net mesh = 19","Cisco",170.954248366013
+"Washburn- 11005900","Minnesota Gill net mesh = 38.1","Cisco",397.925925925926
+"Washburn- 11005900","Minnesota Gill net mesh = 50.8","Cisco",410.625
+"Gull- 11030500","Minnesota Gill net mesh = 19","Cisco",212.714285714286
+"Gull- 11030500","Minnesota Gill net mesh = 25.4","Cisco",245.62
+"Whitefish- 18031000","Minnesota Gill net mesh = 25.4","Cisco",243.949152542373
+"Whitefish- 18031000","Minnesota Gill net mesh = 19","Cisco",193.322033898305
+"Whitefish- 18031000","Minnesota Gill net mesh = 32","Cisco",282.25
+"Washburn- 11005900","Minnesota Gill net mesh = 32","Cisco",372.1875
+"Washburn- 11005900","Minnesota Gill net mesh = 25.4","Cisco",257.105263157895
+"Elmo- 82010600","Minnesota Gill net mesh = 19","Cisco",251.473684210526
+"Elmo- 82010600","Minnesota Gill net mesh = 25.4","Cisco",285.252873563218
+"Elmo- 82010600","Minnesota Gill net mesh = 32","Cisco",293.583333333333
+"Elmo- 82010600","Minnesota Gill net mesh = 38.1","Cisco",302.714285714286
+"Mille Lacs- 48000200","Minnesota Gill net mesh = 25.4","Cisco",238.931187122736
+"Mille Lacs- 48000200","Minnesota Gill net mesh = 32","Cisco",294.157828810021
+"Mille Lacs- 48000200","Minnesota Gill net mesh = 38.1","Cisco",342.100635075721
+"Mille Lacs- 48000200","Minnesota Gill net mesh = 50.8","Cisco",380.168648648649
+"Sauk- 77015000","Minnesota Gill net mesh = 32","Cisco",344
+"Mille Lacs- 48000200","Minnesota Gill net mesh = 19","Cisco",202.77761732852
+"Sauk- 77015000","Minnesota Gill net mesh = 50.8","Cisco",399.2
+"Sauk- 77015000","Minnesota Gill net mesh = 38.1","Cisco",354.261904761905
+"Sullivan- 49001600","Minnesota Gill net mesh = 50.8","Cisco",407.833333333333
+"Koronis (main lake)- 73020002","Minnesota Gill net mesh = 25.4","Cisco",233.238095238095
+"Koronis (main lake)- 73020002","Minnesota Gill net mesh = 32","Cisco",331.333333333333
+"Koronis (main lake)- 73020002","Minnesota Gill net mesh = 50.8","Cisco",403.407407407407
+"Koronis (main lake)- 73020002","Minnesota Gill net mesh = 38.1","Cisco",350.411764705882
+"Green- 34007900","Minnesota Gill net mesh = 32","Cisco",302.478260869565
+"Green- 34007900","Minnesota Gill net mesh = 38.1","Cisco",335.553398058252
+"Green- 34007900","Minnesota Gill net mesh = 25.4","Cisco",235.074285714286
+"Green- 34007900","Minnesota Gill net mesh = 50.8","Cisco",370.2
+"Green- 34007900","Minnesota Gill net mesh = 19","Cisco",229.169811320755
+"Big Trout- 18031500","Minnesota Gill net mesh = 32","Lake Whitefish",331.297872340426
+"Big Trout- 18031500","Minnesota Gill net mesh = 38.1","Lake Whitefish",382.787878787879
+"Big Trout- 18031500","Minnesota Gill net mesh = 50.8","Lake Whitefish",427.118644067797
+"Saganaga- 16063300","Minnesota Gill net mesh = 19","Lake Whitefish",205.166666666667
+"Saganaga- 16063300","Minnesota Gill net mesh = 32","Lake Whitefish",382.230088495575
+"Saganaga- 16063300","Minnesota Gill net mesh = 38.1","Lake Whitefish",457.62987012987
+"Saganaga- 16063300","Minnesota Gill net mesh = 50.8","Lake Whitefish",522.630350194553
+"Burntside- 69011800","Minnesota Gill net mesh = 50.8","Lake Whitefish",582.333333333333
+"Burntside- 69011800","Minnesota Gill net mesh = 32","Lake Whitefish",599.258064516129
+"Burntside- 69011800","Minnesota Gill net mesh = 38.1","Lake Whitefish",584.275
+"Burntside- 69011800","Minnesota Gill net mesh = 25.4","Lake Whitefish",562.8125
+"Poplar- 16023900","Minnesota Gill net mesh = 25.4","Lake Whitefish",273.379310344828
+"Poplar- 16023900","Minnesota Gill net mesh = 32","Lake Whitefish",377.967741935484
+"Poplar- 16023900","Minnesota Gill net mesh = 38.1","Lake Whitefish",416.131578947368
+"Greenwood- 16007700","Minnesota Gill net mesh = 50.8","Lake Whitefish",539.692307692308
+"Saganaga- 16063300","Minnesota Gill net mesh = 25.4","Lake Whitefish",323.188405797101
+"Poplar- 16023900","Minnesota Gill net mesh = 50.8","Lake Whitefish",454.192307692308
+"Sea Gull- 16062900","Minnesota Gill net mesh = 25.4","Lake Whitefish",291.935714285714
+"Sea Gull- 16062900","Minnesota Gill net mesh = 32","Lake Whitefish",382.496815286624
+"Sea Gull- 16062900","Minnesota Gill net mesh = 38.1","Lake Whitefish",438.214285714286
+"Sea Gull- 16062900","Minnesota Gill net mesh = 50.8","Lake Whitefish",478.601307189542
+"Sea Gull- 16062900","Minnesota Gill net mesh = 19","Lake Whitefish",215.827586206897
+"Namakan- 69069300","Minnesota Gill net mesh = 25.4","Lake Whitefish",246.193548387097
+"Namakan- 69069300","Minnesota Gill net mesh = 38.1","Lake Whitefish",409.423076923077
+"Namakan- 69069300","Minnesota Gill net mesh = 50.8","Lake Whitefish",487.666666666667
+"Namakan- 69069300","Minnesota Gill net mesh = 19","Lake Whitefish",195.388888888889
+"Namakan- 69069300","Minnesota Gill net mesh = 32","Lake Whitefish",336.5
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 50.8","Lake Whitefish",446.227272727273
+"Blackduck- 4006900","Minnesota Gill net mesh = 50.8","Lake Whitefish",496.736842105263
+"Ten Mile- 11041300","Minnesota Gill net mesh = 25.4","Lake Whitefish",416.78125
+"Ten Mile- 11041300","Minnesota Gill net mesh = 32","Lake Whitefish",428.898550724638
+"Ten Mile- 11041300","Minnesota Gill net mesh = 38.1","Lake Whitefish",446.45
+"Ten Mile- 11041300","Minnesota Gill net mesh = 50.8","Lake Whitefish",479.314814814815
+"Cass- 4003000","Minnesota Gill net mesh = 38.1","Lake Whitefish",406.3125
+"Cass- 4003000","Minnesota Gill net mesh = 50.8","Lake Whitefish",481.75
+"Red (Upper Red)- 4003501","Minnesota Gill net mesh = 50.8","Lake Whitefish",438
+"Leech- 11020300","Minnesota Gill net mesh = 50.8","Lake Whitefish",463.333333333333
+"Red (Upper Red)- 4003501","Minnesota Gill net mesh = 38.1","Lake Whitefish",380.941176470588
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 32","Lake Whitefish",282.304347826087
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 38.1","Lake Whitefish",366.208333333333
+"Lake of the Woods- 39000200","Minnesota Gill net mesh = 25.4","Lake Whitefish",269.818181818182
+"Tom- 16001900","Minnesota Gill net mesh = 38.1","Lake Whitefish",471.529411764706
+"Tom- 16001900","Minnesota Gill net mesh = 50.8","Lake Whitefish",523.180327868852
+"Devil Track- 16014300","Minnesota Gill net mesh = 50.8","Lake Whitefish",501.217391304348
+"Pike- 16025200","Minnesota Gill net mesh = 38.1","Lake Whitefish",474.384615384615
+"Pike- 16025200","Minnesota Gill net mesh = 50.8","Lake Whitefish",522.028571428571
+"Rainy- 69069400","Minnesota Gill net mesh = 32","Lake Whitefish",293.4
+"Rainy- 69069400","Minnesota Gill net mesh = 25.4","Lake Whitefish",242.4375
+"Rainy- 69069400","Minnesota Gill net mesh = 38.1","Lake Whitefish",384.217391304348
+"Rainy- 69069400","Minnesota Gill net mesh = 50.8","Lake Whitefish",472.428571428571
+"Elbow- 69074400","Minnesota Gill net mesh = 38.1","Lake Whitefish",483.688888888889
+"Elbow- 69074400","Minnesota Gill net mesh = 50.8","Lake Whitefish",518.467741935484
+"Elbow- 69074400","Minnesota Gill net mesh = 32","Lake Whitefish",455.5
+"Sand Point- 69061700","Minnesota Gill net mesh = 38.1","Lake Whitefish",445.3
+"Johnson- 69069100","Minnesota Gill net mesh = 38.1","Lake Whitefish",464.099290780142
+"Johnson- 69069100","Minnesota Gill net mesh = 32","Lake Whitefish",451.744186046512
+"Johnson- 69069100","Minnesota Gill net mesh = 25.4","Lake Whitefish",465.632653061225
+"Johnson- 69069100","Minnesota Gill net mesh = 50.8","Lake Whitefish",486.794642857143
+"Sand Point- 69061700","Minnesota Gill net mesh = 32","Lake Whitefish",357.2
+"Silver Island- 38021900","Minnesota Gill net mesh = 32","Lake Whitefish",381.484848484848
+"Silver Island- 38021900","Minnesota Gill net mesh = 50.8","Lake Whitefish",410.526315789474
+"Silver Island- 38021900","Minnesota Gill net mesh = 38.1","Lake Whitefish",396.191489361702
+"Silver Island- 38021900","Minnesota Gill net mesh = 25.4","Lake Whitefish",305.777777777778
+"Whitefish- 18031000","Minnesota Gill net mesh = 19","Lake Whitefish",215.636363636364
+"Whitefish- 18031000","Minnesota Gill net mesh = 25.4","Lake Whitefish",273.4
+"Whitefish- 18031000","Minnesota Gill net mesh = 32","Lake Whitefish",367.684210526316
+"Whitefish- 18031000","Minnesota Gill net mesh = 50.8","Lake Whitefish",487.181818181818
+"Crooked Lake (IN)","Indiana Gill net- 250ft","Cisco",313.246016260163
+"Toolik","Arctic LTER Gillnet","Round Whitefish",402.585365853659
+"Bear Lake","Bear Lake Experimental Gillnet: 12.7-50.8mm","Bonneville Whitefish",290.252519893899
+"Bear Lake","Bear Lake AFS Gillnet: 19-63.5mm","Bonneville Whitefish",346.099924299773
+"Michigan","Lake Michigan Gillnet:50.8-152.4","Lake Whitefish",449.89748549323
+"Michigan","Lake Michigan Gillnet:50.8-152.4","Cisco",407.464
+"Michigan","Lake Michigan Nylon Multi:114.3-152.4","Lake Whitefish",532.088607594937
+"Michigan","Lake Michigan Nylon Multi:50.8-152.4","Lake Whitefish",445.295379537954
+"Michigan","Lake Michigan Nylon Multi:63.5-152.4","Lake Whitefish",513.068965517241
+"Michigan","Lake Michigan Gillnet:114.3-152.4","Lake Whitefish",552.251348435814
+"Michigan","Lake Michigan Gillnet:114.3-152.4","Cisco",461.289473684211
+"Michigan","Lake Michigan Gillnet:63.5-152.4","Lake Whitefish",453.063609467456
+"Michigan","Lake Michigan Gillnet:38.1-152.4","Lake Whitefish",503.297290152016
+"Michigan","Lake Michigan Gillnet:38.1-152.4","Cisco",457.404761904762
+"Michigan","Lake Michigan Gillnet:114.3-165.1","Lake Whitefish",503.711111111111
+"Michigan","Lake Michigan Gillnet:63.5-165.1","Lake Whitefish",494.873202614379
+"Erie","Lake Erie Multi:38.1-152.4","Lake Whitefish",389.363143631436
+"Erie","Lake Erie Gillnet:38.1-203.2","Lake Whitefish",524.477877918886
+"Huron","Lake Huron Nylon Multi Gillnet:38.1-127","Cisco",322.599675850891
+"Huron","Lake Huron Nylon Multi Gillnet:25.4-127","Cisco",376.568075117371
+"Huron","Lake Huron Gillnet:25.4-127","Cisco",283.521384928717
+"Huron","Lake Huron Gillnet:50.8-152.4","Cisco",348.442748091603
+"Huron","Lake Huron Gillnet:38.1-127","Cisco",382.362416107383
+"Huron","Lake Huron Gillnet:31.8-152.4","Cisco",335.006423982869
+"Huron","Lake Huron Gillnet:31.8-127","Cisco",330.964420893263
+"Huron","Lake Huron Gillnet:31.8-127","Lake Whitefish",356.767159763314
+"Huron","Lake Huron Gillnet:38.1-127","Lake Whitefish",375.608118570955
+"Huron","Lake Huron Nylon Multi Gillnet:38.1-127","Lake Whitefish",380.434006906254
+"Huron","Lake Huron Trawl","Lake Whitefish",307.830188679245
+"Huron","Lake Huron Nylon Multi Gillnet:25.4-127","Lake Whitefish",423.10612244898
+"Huron","Lake Huron Gillnet:25.4-127","Lake Whitefish",374.666833416708
+"Huron","Lake Huron Gillnet:50.8-152.4","Lake Whitefish",448.620637329287
+"Huron","Lake Huron Gillnet:76.2-127","Lake Whitefish",419.657142857143
+"Huron","Lake Huron Gillnet:31.8-152.4","Lake Whitefish",390.874741200828
+"Huron","Lake Huron Nylon Multi Gillnet:50.8-76.2","Lake Whitefish",334.869281045752
+"Huron","Lake Huron Gillnet:101.6-152.4","Lake Whitefish",547.61875
+"Superior","Lake Superior Gillnet:50.8-152.4","Lake Trout",468.06008583691
+"Superior","Lake Superior Gillnet:95.3-127","Lake Trout",454.342465753425
+"Superior","Lake Superior Gillnet:95.3-127","Cisco",328.272727272727
+"Superior","Lake Superior Gillnet:95.3-127","Lake Whitefish",413.35650887574
+"Superior","Lake Superior Gillnet:50.8-88.9","Lake Trout",537.691489361702
+"Superior","Lake Superior Gillnet:50.8-88.9","Lake Whitefish",478.806451612903
+"Superior","Lake Superior Gillnet:50.8-88.9","Cisco",292.25
+"Superior","Lake Superior Gillnet:50.8-152.4","Lake Whitefish",453.783783783784
+"Superior","Lake Superior Gillnet:50.8-152.4","Cisco",314.337969401947
+"Superior","Lake Superior Gillnet:114.3","Lake Trout",567.626645398338
+"Superior","Lake Superior Gillnet:114.3","Lake Whitefish",493.528364404311
+"Superior","Lake Superior Gillnet:114.3","Cisco",314.581997533909
+"Superior","Lake Superior Gillnet:139.7-152.4","Cisco",276.276772334294
+"Superior","Lake Superior Gillnet:139.7-152.4","Lake Whitefish",388.588651830053
+"Superior","Lake Superior Gillnet:139.7-152.4","Lake Trout",480.037967615857
+"Superior","Lake Superior Nylon multi:139.7-152.4","Lake Trout",452.631469979296
+"Superior","Lake Superior Nylon multi:139.7-152.4","Lake Whitefish",318.129296235679
+"Superior","Lake Superior Nylon multi:139.7-152.4","Cisco",233.470938474624
+"Ontario","Lake Ontario Gillnet:50.8-152.4","Lake Whitefish",453.705035971223
+"Ontario","Lake Ontario Gillnet:50.8-152.4","Cisco",365.25
+"Ontario","Lake Ontario Gillnet:38.1-152.4","Cisco",353.677304964539
+"Ontario","Lake Ontario Gillnet:38.1-152.4","Lake Whitefish",405.359876701772
+"First Bisby Lake","Adirondacks Boat Electrofishing","Lake Trout",256.341772151899
+"First Bisby Lake","Adirondacks Gillnet","Lake Trout",344.178082191781
+"First Bisby Lake","Adirondacks Trap net","Lake Trout",246.541586073501
+"Second Bisby Lake","Adirondacks Gillnet","Lake Trout",259.052264808362
+"Second Bisby Lake","Adirondacks Trap net","Lake Trout",335.783448275862
+"Little Moose Lake","Adirondacks Boat Electrofishing","Lake Trout",330.396624472574
+"Little Moose Lake","Adirondacks Gillnet","Lake Trout",470.050193050193
+"Little Moose Lake","Adirondacks Angling","Lake Trout",469.63279342723
+"Little Moose Lake","Adirondacks Trap net","Lake Trout",455.857970123023
+"Little Moose Lake","Adirondacks Boat Electrofishing","Round Whitefish",222.580827067669
+"Little Moose Lake","Adirondacks Gillnet","Round Whitefish",351.724935732648
+"Little Moose Lake","Adirondacks Trap net","Round Whitefish",381.099075144509
+"East Lake","Adirondacks Backpack Electrofishing","Brook Trout",58.1007957559682
+"East Lake","Adirondacks Gillnet","Brook Trout",220.093670886076
+"East Lake","Adirondacks Angling","Brook Trout",227.239669421488
+"East Lake","Adirondacks Trap net","Brook Trout",218.64808682855
+"Panther Lake","Adirondacks Backpack Electrofishing","Brook Trout",60.2151898734177
+"Panther Lake","Adirondacks Gillnet","Brook Trout",224.077922077922
+"Panther Lake","Adirondacks Angling","Brook Trout",275.87323943662
+"Panther Lake","Adirondacks Trap net","Brook Trout",234.119078104994
+"Rock Lake","Adirondacks Gillnet","Brook Trout",274.947368421053
+"Rock Lake","Adirondacks Angling","Brook Trout",325.1875
+"Rock Lake","Adirondacks Trap net","Brook Trout",256.566597448828
+"Wilmurt Lake","Adirondacks Gillnet","Brook Trout",278.276206322795
+"Wilmurt Lake","Adirondacks Trap net","Brook Trout",260.405685959271
+"Michigan","Lake Michigan YP Gillnet: 50.8-82.55","Round Whitefish",454.059431524548
+"Michigan","Lake Michigan YP Gillnet: 25.4-82.55","Round Whitefish",437.901397515528
+"Säkylän Pyhäjärvi","Säkylän Pyhäjärvi Winter Seine","Vendace",167.033586943183
+"Säkylän Pyhäjärvi","Säkylän Pyhäjärvi Winter Seine","Common Whitefish",174.368195376585
+"Säkylän Pyhäjärvi","Säkylän Pyhäjärvi Fyke Net","Common Whitefish",305.642164369576
+"Lake Constance","Lake Constance: 44mm Gillnet","Coregonus wartmanni",354.363729809104
+"Blackstrap Reservoir","Saskatchewan Blackstrap Res Standard Gillnet","Lake Whitefish",477.206349206349
+"Bradwell Reservoir","Saskatchewan Bradwell Res Standard Gillnet","Lake Whitefish",396.840490797546
+"Cold Lake","Saskatchewan Cold Lake Commercial Gillnet","Lake Trout",611.081481481481
+"Dore Lake","Saskatchewan Dore Lake Commercial Gillnet","Lake Whitefish",408.864157119476
+"Dore Lake","Saskatchewan Dore Lake Standard Gillnet","Lake Whitefish",334.80625
+"Jackfish Lake","Saskatchewan Jackfish Lake Commercial Gillnet","Lake Whitefish",407.784391534392
+"Jackfish Lake","Saskatchewan Jackfish Lake Standard Gillnet","Lake Whitefish",378.565004088307
+"Keeley Lake","Saskatchewan Keeley Lake Commercial Gillnet","Lake Whitefish",439.708820403826
+"Lake Lenore","Saskatchewan Lake Lenore Commercial Gillnet","Lake Whitefish",469.574668141593
+"Lake Lenore","Saskatchewan Lake Lenore Std Gillnet","Lake Whitefish",434.320408163265
+"Murray Lake","Saskatchewan Murray Lake Standard Gillnet","Lake Whitefish",374.360703812317
+"Pierce Lepine","Saskatchewan Pierce Lepine Commercial Trap","Lake Whitefish",398.660998937301
+"Primrose Lake","Saskatchewan Primrose Lake Commercial Gillnet","Lake Whitefish",449.546027742749
+"Zelma Reservoir","Saskatchewan Zelma Res Standard Gillnet","Lake Whitefish",456.159420289855
