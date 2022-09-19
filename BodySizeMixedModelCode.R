@@ -17,7 +17,7 @@ library('MuMIn')
 library("tidyverse")
 
 #Reading in data
-data<-read.csv("Desktop/BodySizeGithubFiles/filteredData.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
+data<-read.csv("filteredData.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
 
 #Formatting data
 data$fGear<-factor(data$Gear)
@@ -231,7 +231,7 @@ bodysizeModelResults$OverallSlopeBacktransformed<-((bodysizeModelResults$Overall
 
 bodysizeModelResults<-bodysizeModelResults[,c("Lake", "Gear", "Species", "OverallSlope", "OverallSlopeBacktransformed", "totalVar")]
 
-write.csv(x=bodysizeModelResults, file="Desktop/BodySizeGithubFiles/bodysizeModelResults.csv", row.names = F)
+write.csv(x=bodysizeModelResults, file="bodysizeModelResults.csv", row.names = F)
 
 ###########################################################################################################################
 #Calculating the average body size at the population level for the secondary analyses:
@@ -241,6 +241,6 @@ popAvg<-tbl_df(data) %>%
   select(Lake, Gear, Species, avgPopLength)
 popAvg<-unique(popAvg)
 
-write.csv(x=popAvg, file="Desktop/BodySizeGithubFiles/BodySize_PopAvgSize.csv", row.names = F)
+write.csv(x=popAvg, file="BodySize_PopAvgSize.csv", row.names = F)
 
 
