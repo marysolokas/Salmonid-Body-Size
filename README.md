@@ -8,7 +8,7 @@ Data & scripts for the paper: "Shrinking body size and climate warming: Many fre
 2) BodySizeSecondaryAnalysesCode.R
 3) BodySizeFigureCode.R
 
-*File paths in R scripts will need to be modified to fit the user's working directory
+*File paths in R scripts may need to be modified to fit the user's working directory
 
 # Steps for running analyses:
 1) BodySizeMixedModelCode.r- This file reads in the length data from filteredData.csv and runs the top three mixed effects models from the main body of the paper, tested with and without random slopes for each species, along with the models that did not include year as a predictor. Using the most parsimonious model (lowest AIC), it saves the results (mm change in length per year) for each population (lake/species/gear combination) into a table with their associated variances. The full table,  bodysizeModelResults.csv, lists the model results for the full dataset used in the paper and is included here. The calculation to get average body sizes at the population level, needed for a secondary analysis, is also included at the end of this file. The average body sizes at the population level for the full dataset can be found in the data file BodySize_PopAvgSize.csv.
