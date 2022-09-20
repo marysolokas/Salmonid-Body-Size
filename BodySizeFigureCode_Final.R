@@ -20,7 +20,7 @@ library(geosphere)
 library(gpclib)
 
 #Loading in locations with each genus, general lats and general longs
-genusPoints<-read.csv("Desktop/BodySizeGithubFiles/BodySize_WorldMap.csv", header=TRUE, stringsAsFactors = FALSE)
+genusPoints<-read.csv("BodySize_WorldMap.csv", header=TRUE, stringsAsFactors = FALSE)
 
 # Setting up world map
 worldMap <- getMap()
@@ -68,7 +68,7 @@ speciesList<-sort(unique(bodysizeModelResults$Species))
 names(colors)=sort(unique(speciesList)) #adding species names to colors
 
 #Reading in survey table to get to latitudes:
-lakeLatLong<-read.csv("Desktop/BodySizeGithubFiles/BodySize_LatLongTable.csv", header=TRUE, stringsAsFactors = FALSE)
+lakeLatLong<-read.csv("BodySize_LatLongTable.csv", header=TRUE, stringsAsFactors = FALSE)
 lakeLats<-lakeLatLong[,2:3]
 
 #Combining model result table with lake latitudes
