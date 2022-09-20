@@ -6,7 +6,7 @@ Data & scripts for the paper: "Shrinking body size and climate warming: Many fre
 # R Scripts:
 1) BodySizeMixedModelCode.R
 2) BodySizeSecondaryAnalysesCode.R
-3) BodySizeFigureCode.R
+3) BodySizeFigureCode_Final.R
 
 *File paths in R scripts may need to be modified to fit the user's working directory
 
@@ -15,8 +15,7 @@ Data & scripts for the paper: "Shrinking body size and climate warming: Many fre
 
 2) BodySizeSecondaryAnalysesCode.R- This file runs 6 secondary analyses, each with its own predictor variable regressed against change in body size. The predictor variables are: asymptotic body size (L infinity values), average body size at the population level (data average), range position, mean chlorophyll-a, mean water temperature, change in water temperature. It uses the body size changes listed in bodysizeModelResults.csv. Data for the predictor variables are needed for the analyses and can be found in the following data files: BodySize_PopAvgSize.csv, BodySize_SpeciesAvgSize.csv, BodySize_LatLongTable.csv, BodySize_LakeChlorophyllData.csv, BodySize_LakeAvgTempData.csv, and BodySize_LakeTempChangeData.csv.
 
-3) BodySizeFigureCode.R- This files creates the figures from the paper. It uses data from the files: need to check and see what files you need to have loaded to run this
-
+3) BodySizeFigureCode_Final.R- This files creates Figures 2, 4, 5, & 6 from the manuscript. Figures 1 & 3 were created using Powerpoint. Figure 2 requires the data file BodySize_WorldMap.csv. Figure 4 requires the data files bodysizeModelResults.csv and BodySize_LatLongTable.csv. Figure 5 requires the data file bodysizeModelResults.csv. Figure 6 requires the BodySizeSecondaryAnalysesCode.R be run first, so that the following dataframes are in the environment: LinfFullTable, popAvgFullTable, rangePosFullTable, chlaFullTable, LakeAvgTempFullTable, TempChangeFullTable.
 
 
 # Data files:
@@ -58,3 +57,7 @@ Metadata: The Lake column is the name of each lake. If the lake name includes a 
 8) BodySize_LakeTempChangeData.csv- change in surface water temperature over the body size data survey period for 172 of our study lakes
 
 Metadata: The Lake column is the name of each lake. If the lake name includes a number, it is an associated DNR number (for the lakes in Minnesota) or water body identification code (for the lakes in Wisconsin). The Species column is the common name of the species of the individual fish caught. See Table 1 in the manuscript for scientific names of each species. The LengthDataStartYear and LengthDataEndYear refer to the body size data survey period. TempChange is the temperature changes over the body size data survey period, in degrees Celsius. The TempDataStartYear and TempDataEndYear refer to the temperature data time period. EarlyLengthYearsMissingTemp refer to how many years the length data started before temperature data started, if any. For example, in Lake Ontario length data started in 1992 but temperature data did not start until 1995, so there are 3 years of length data prior to temperature data begins. LateLengthYearsMissingTemp refer to how many years the length data continued after the temperature data ended, if any. For example, in Lake Constance length data ends in 2020 but temperature data only went through 2019.
+
+9) BodySize_WorldMap.csv- general latitudes and longitudes for our study sites, by genus
+
+Metadata: The Location column indicates each general location where we have data from, along with the different genera we have data for. The GeneralLat and GeneralLong columns indicate general latitude and longitudes of areas we have data from. For many, these aren't the exact locations of a lake with data but rather the middle point of a region where we have data from many lakes.
