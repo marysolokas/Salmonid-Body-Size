@@ -37,7 +37,7 @@ Metadata: The Lake column is the name of each lake. If the lake name includes a 
 
 4) BodySize_SpeciesAvgSize.csv- the asymptotic (L infinity values) length of each species, needed for a secondary analysis
 
-Metadata: The Species column is the common name of the species of the individual fish caught. See Table 1 in the manuscript for scientific names of each species. The Linf column is the asymptotic length of each species, in mm.
+Metadata: The Species column is the common name of the species of the individual fish caught. See Table 1 in the manuscript for scientific names of each species. The Linf column is the asymptotic length of each species, in cm.
 
 
 5) BodySize_LatLongTable.csv- latitudes and longitudes for each lake; latitudes are needed for a secondary analysis
