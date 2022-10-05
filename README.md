@@ -19,7 +19,13 @@ Data & scripts for the paper: "Shrinking body size and climate warming: Many fre
 
 
 # Data files:
-1) filteredData_Github.csv- dataset used in the model analysis. Dataset is incomplete due to permission issues, but results produced from the most parsimonious model (lowest AIC) using the full dataset can be found in the file bodysizeModelResults.csv. In order to fully recreate the analysis, separate permission is required to access X% of the data from the following agencies:
+1) filteredData_Github.csv- dataset used in the model analysis. Dataset is incomplete due to permission issues, but results produced from the most parsimonious model (lowest AIC) using the full dataset can be found in the file bodysizeModelResults.csv. In order to fully recreate the analysis, separate permission is required to access the remaining 2.7% of the data from the following agencies:
+
+      1) Ontario Ministry of Natural Resources, Lake Superior- Eric Berglund (eric.berglund@ontario.ca)
+      2) Sault Tribe of Chippewa Indians- Brad Silet (bsilet@saulttribe.net)
+      3) Bay Mills Indian Community- Paul Ripple (pripple@baymills.org)
+      4) Little Traverse Bay Bands of Odawa Indians- Kevin Donner (kdonner@ltbbodawa-nsn.gov)
+      5) Great Lakes Indian Fish and Wildlife Commission- Samuel Michael (smichaels@glifwc.org)
 
 
 Metadata: The Lake column is name of each lake. If the lake name includes a number, it is an associated DNR number (for the lakes in Minnesota) or water body identification code (for the lakes in Wisconsin). The Year column is the year the individual fish was sampled. The Gear column is the type of gear used to capture the individual fish. In some instances, the mesh size or mesh range of the gillnet used is included and is listed in mm. The Species column is the common name of the species of the individual fish caught. See Table 1 in the manuscript for scientific names of each species. The Length column is the length of the individual fish caught, in mm. For Saskatchewan data, length refers to fork length. For the rest of the dataset, length refers to total length. The DataSource column refers to the sampling program that collected each line of data. More information regarding the data source, including contact information and details on sampling protocol/methods collection can be found in the supplementary material associated with the manuscript (Table S1).
