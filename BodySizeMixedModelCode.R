@@ -1,4 +1,4 @@
-###This code reads in the file: filteredData.csv which is the file that contains the datasets we compiled that have more than 
+###This code reads in the file: filteredData_Github.csv which is the file that contains the datasets we compiled that have more than 
 ###10 observations and 5+ years of data (the filtered data). It then formats the data, runs the different model structures that 
 ###are included in the main body of the manuscript, and calculates the change in body size per year at the population level 
 ###(unique lake/species/gear combination) for the most parsimonious model (lowest AIC). It also calculates the variance for each 
@@ -17,7 +17,7 @@ library('MuMIn')
 library("tidyverse")
 
 #Reading in data
-data<-read.csv("filteredData.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
+data<-read.csv("filteredData_Github.csv", header=TRUE, stringsAsFactors = FALSE) #filtered data (min 10 obs, 5 years of data per gear)
 
 #Formatting data
 data$fGear<-factor(data$Gear)
