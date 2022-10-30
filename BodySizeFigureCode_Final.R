@@ -62,6 +62,9 @@ library("forcats")
 library("gridExtra")
 library("cowplot")
 
+#Reading in model results:
+bodysizeModelResults<-read.csv("Desktop/BodySizeGithubFiles/bodysizeModelresults.csv", header=TRUE, stringsAsFactors = FALSE)
+
 #Setting colors to species:
 colors<-c("#fb9a99", "#e31a1c", "#cab2d6", "#6a3d9a",  "#b2df8a","#33a02c", "#fdbf6f", "#ff7f00", "#a6cee3", "#1f78b4", "#000000", "#b15928")
 speciesList<-sort(unique(bodysizeModelResults$Species))
