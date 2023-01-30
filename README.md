@@ -3,6 +3,8 @@ Analysis of spatial &amp; temporal trends in freshwater salmonid body size
 
 Data & scripts for the paper: "Shrinking body size and climate warming: Many freshwater salmonid fishes do not follow the rule"
 
+DOI: 10.5281/zenodo.7582537
+
 # R Scripts:
 1) BodySizeMixedModelCode.R
 2) BodySizeSecondaryAnalysesCode.R
