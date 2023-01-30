@@ -198,7 +198,7 @@ tempAvgRegressionPlot<-ggplot(LakeAvgTempFullTable, aes(x=avgLakeTemp, y=Overall
   labs(x="Mean Temperature (°C)", y="Average Change in Body Size (mm/year)")+
   geom_smooth(method='lm', linetype="solid",formula= y~x)+
   ylim(-0.07, .1)+
-  scale_color_manual(values=colors)+theme_gray(base_size = 12)+theme_bw()
+  scale_color_manual(values=colors)+theme_gray(base_size = 12)+theme_bw(base_size = 12)
 tempAvgRegressionPlot
 
 library("ggpubr")
